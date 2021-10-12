@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AllTrailsRestaurantApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Restaurants near me</string>
+    <string name="map_fragment_label">Restaurants near me</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="unexpected_error">An unexpected error occured while processing your request.</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
